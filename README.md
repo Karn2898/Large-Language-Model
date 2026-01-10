@@ -1,2 +1,2 @@
 # Large-Language-Model
-building a LLM
+building a langage model
